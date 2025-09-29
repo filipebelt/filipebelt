@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.credly.com/users/filipe-correa.ab66564b" target="_blank">
-    <img src="https://img.shields.io/badge/Credly-Ver_Certificados-1f972d?style=for-the-badge" alt="Credly"/>
+    <img src="https://img.shields.io/badge/Credly-Ver_Certificados-1f972d?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
   </a>
   <a href="mailto:filipe-correa@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Entrar_em_Contato-blue?style=for-the-badge&logo=microsoftoutlook" alt="Email"/>
@@ -31,6 +31,15 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 **Linguagens de Programação:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 ---
 
 ### 📜 Conquistas Recentes em Google Cloud
