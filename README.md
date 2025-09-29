@@ -1,28 +1,36 @@
-<h1 align="center">Olá, eu sou o Filipe Correa! 👋</h1>
+<h1 align="center">Hi, I'm Filipe Correa! 👋</h1>
 <p align="center">
-  <em>Engenheiro de Software | Google Cloud Foundations Certified</em>
+  <em>Software Engineer | Google Cloud Foundations Certified</em>
 </p>
 
 <p align="center">
   <a href="https://www.credly.com/users/filipe-correa.ab66564b" target="_blank">
-    <img src="https://img.shields.io/badge/Credly-Ver_Certificados-1f972d?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
+    <img src="https://img.shields.io/badge/Credly-View_Certificates-1f972d?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
   </a>
   <a href="mailto:filipe-correa@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Entrar_em_Contato-blue?style=for-the-badge&logo=microsoftoutlook" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-blue?style=for-the-badge&logo=microsoftoutlook" alt="Email"/>
   </a>
 </p>
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 About Me
 
-- 🚀 Apaixonado por tecnologia e por desenvolver soluções eficientes e escaláveis na nuvem.
-- ☁️ Recentemente conquistei o certificado **Google Cloud Computing Foundations**, demonstrando habilidades práticas em múltiplos laboratórios com desafio.
-- 🌱 Estou sempre aprendendo e explorando novas tecnologias para resolver problemas complexos.
+<table>
+  <tr>
+    <td>Software Engineer passionate about technology and building efficient, scalable cloud solutions.</td>
+  </tr>
+  <tr>
+    <td>I recently earned the <strong>Google Cloud Computing Foundations</strong> certificate, demonstrating practical skills through multiple challenge labs.</td>
+  </tr>
+  <tr>
+    <td>I'm always learning and exploring new technologies to solve complex problems.</td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Minhas Ferramentas e Habilidades
+### 🛠️ My Tools & Skills
 
 **Cloud & DevOps:**
 
@@ -30,7 +38,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-**Linguagens de Programação:**
+**Programming Languages:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -42,31 +50,22 @@
 
 ---
 
-### 📜 Conquistas Recentes em Google Cloud
+### 📜 Recent Google Cloud Accomplishments
 
-Aqui estão alguns dos conceitos que apliquei para conquistar meus selos de habilidade:
+Here are some of the concepts I applied to earn my skill badges:
 
-- **Rede e Segurança:**
-  - Criação de redes VPC seguras, regras de firewall específicas e configuração de acesso via IAP (Identity-Aware Proxy).
-  - *Selo Conquistado: Build a Secure Google Cloud Network*
+- **Networking & Security:**
+  - Designed and configured secure VPC networks, specific firewall rules, and access via IAP (Identity-Aware Proxy).
+  - *Skill Badge Earned: Build a Secure Google Cloud Network*
 
-- **Infraestrutura e Balanceamento de Carga:**
-  - Implementação de Balanceadores de Carga de Rede e HTTP(S) para distribuir tráfego entre grupos de instâncias do Compute Engine.
-  - *Selo Conquistado: Implement Load Balancing on Compute Engine*
+- **Infrastructure & Load Balancing:**
+  - Implemented both Network and HTTP(S) Load Balancers to distribute traffic across Compute Engine instance groups.
+  - *Skill Badge Earned: Implement Load Balancing on Compute Engine*
 
-- **Engenharia de Dados e Machine Learning:**
-  - Construção de pipelines de dados para processar e preparar dados para APIs de ML, utilizando Dataflow e Dataproc.
-  - *Selo Conquistado: Prepare Data for ML APIs on Google Cloud*
+- **Data Engineering & Machine Learning:**
+  - Built data pipelines to process and prepare data for ML APIs using Dataflow and Dataproc.
+  - *Skill Badge Earned: Prepare Data for ML APIs on Google Cloud*
 
-- **Desenvolvimento de Aplicações:**
-  - Configuração de ambientes de desenvolvimento completos no Google Cloud.
-  - *Selo Conquistado: Set Up an App Dev Environment on Google Cloud*
-
----
-
-### 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipebelt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipebelt&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+- **Application Development:**
+  - Configured complete application development environments on Google Cloud.
+  - *Skill Badge Earned: Set Up an App Dev Environment on Google Cloud*
