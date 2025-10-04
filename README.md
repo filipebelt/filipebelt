@@ -69,3 +69,15 @@ Here are some of the concepts I applied to earn my skill badges:
 - **Application Development:**
   - Configured complete application development environments on Google Cloud.
   - *Skill Badge Earned: Set Up an App Dev Environment on Google Cloud*
+
+---
+
+### 🎓 Google Cloud Certifications
+
+- **[Google Cloud Computing Foundations Certificate](https://www.credly.com/users/filipe-correa.ab66564b)**  
+  Validates foundational knowledge in cloud concepts, GCP products and services, infrastructure, and application development.  
+  *Issued: September 29, 2025*
+
+- **[Google Cloud Cybersecurity Certificate](https://www.credly.com/users/filipe-correa.ab66564b)**  
+  Demonstrates essential skills in securing cloud resources, identity management, threat detection, and response.  
+  *Issued: October 4, 2025*
