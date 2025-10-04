@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Filipe Correa! 👋</h1>
 <p align="center">
-  <em>Software Engineer | Google Cloud Foundations Certified</em>
+  <em>Software Engineer | Google Cloud Foundations & Cybersecurity Certified</em>
 </p>
 
 <p align="center">
@@ -22,6 +22,9 @@
   </tr>
   <tr>
     <td>I recently earned the <strong>Google Cloud Computing Foundations</strong> certificate, demonstrating practical skills through multiple challenge labs.</td>
+  </tr>
+  <tr>
+    <td>Additionally, I recently completed the <strong>Google Cloud Cybersecurity</strong> certification, enhancing my knowledge in cloud security, identity management, and threat response.</td>
   </tr>
   <tr>
     <td>I'm always learning and exploring new technologies to solve complex problems.</td>
@@ -74,10 +77,10 @@ Here are some of the concepts I applied to earn my skill badges:
 
 ### 🎓 Google Cloud Certifications
 
-- **[Google Cloud Computing Foundations Certificate](https://www.credly.com/users/filipe-correa.ab66564b)**  
+- [Google Cloud Computing Foundations Certificate](https://www.credly.com/users/filipe-correa.ab66564b)  
   Validates foundational knowledge in cloud concepts, GCP products and services, infrastructure, and application development.  
-  *Issued: September 29, 2025*
+  *Issued: Setembro 2025*
 
-- **[Google Cloud Cybersecurity Certificate](https://www.credly.com/users/filipe-correa.ab66564b)**  
+- [Google Cloud Cybersecurity Certificate](https://www.credly.com/users/filipe-correa.ab66564b)  
   Demonstrates essential skills in securing cloud resources, identity management, threat detection, and response.  
-  *Issued: October 4, 2025*
+  *Issued: Outubro 2025*
