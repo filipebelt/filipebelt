@@ -23,7 +23,7 @@ My latest project, **AIVA**, is a complete end-to-end web application built to d
 
 <p align="center">
   <a href="https://github.com/filipebelt/aiva">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=filipebelt&repo=aiva&theme=dark&bg_color=0B0B0F&border_color=8A2BE2&title_color=FFFFFF&text_color=A0A0B0" alt="AIVA Project Card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=filipebelt&repo=aiva&theme=dark&bg_color=0B0B0F&border_color=8A2BE2&title_color=FFFFFF&text_color=A0A0B0&cache_seconds=1" alt="AIVA Project Card">
   </a>
 </p>
 
