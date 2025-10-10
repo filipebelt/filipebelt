@@ -4,13 +4,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/COLE_SEU_USUARIO_DO_LINKEDIN_AQUI" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/filipebelt/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.credly.com/users/filipe-correa.ab66564b" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Credly-Credentials-1f972d?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
   </a>
-  <a href="mailto:felipe.silva.correa@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:filipe-correa@outlook.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -45,12 +45,17 @@ Here are the key technologies I have practical experience with, particularly fro
 
 ### 🎓 Certifications & Google Cloud Expertise
 
-- **[Google Cloud Cybersecurity Certificate](https://www.credly.com/users/filipe-correa.ab66564b)** - *Issued: October 2025*
-- **[Google Cloud Computing Foundations Certificate](https://www.credly.com/users/filipe-correa.ab66564b)** - *Issued: September 2025*
+- **[Google Data Analytics Certificate](https://www.credly.com/badges/)** - *Issued: 2025*  
+- **[Google Cloud Cybersecurity Certificate](https://www.credly.com/users/filipe-correa.ab66564b)** - *Issued: October 2025*  
+- **[Google Cloud Computing Foundations Certificate](https://www.credly.com/users/filipe-correa.ab66564b)** - *Issued: September 2025*  
 - **Actively studying for the Professional Cloud Architect certification.**
 
 *Key skills demonstrated through Google Cloud challenge labs:*
-- **Secure Networking:** VPC design, firewall rules, and IAP.
-- **Infrastructure:** Network & HTTP(S) Load Balancing across instance groups.
-- **Data Pipelines:** Data preparation for ML APIs with Dataflow and Dataproc.
-- **App Development:** Configuration of complete GCP development environments.
+- **Secure Networking:** VPC design, firewall rules, and IAP.  
+- **Infrastructure:** Network & HTTP(S) Load Balancing across instance groups.  
+- **Data Pipelines:** Data preparation for ML APIs with Dataflow and Dataproc.  
+- **App Development:** Configuration of complete GCP development environments.  
+
+---
+
+⭐ *Always open to collaboration and building impactful AI-powered tools.*
