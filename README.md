@@ -17,15 +17,19 @@
 
 ---
 
-### 🚀 My Featured Project: AIVA
-
-My latest project, **AIVA**, is a complete end-to-end web application built to detect AI-generated visual media. It leverages a deep learning model to analyze images and videos, providing a confidence score on their authenticity.
-
-<p align="center">
-  <a href="https://github.com/filipebelt/aiva">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=filipebelt&repo=aiva&theme=dark&bg_color=0B0B0F&border_color=8A2BE2&title_color=FFFFFF&text_color=A0A0B0&cache_seconds=1" alt="AIVA Project Card">
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=filipebelt&show_icons=true&theme=dark" alt="Filipe's GitHub stats" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/filipebelt/aiva">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=filipebelt&repo=aiva&theme=dark&bg_color=0B0B0F&border_color=8A2BE2&title_color=FFFFFF&text_color=A0A0B0&cache_seconds=1" alt="AIVA Project Card">
+      </a>
+      <p>My latest project, AIVA, is an AI web app to detect AI-generated visual media. It uses deep learning for authenticity analysis.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -45,17 +49,17 @@ Here are the key technologies I have practical experience with, particularly fro
 
 ### 🎓 Certifications & Google Cloud Expertise
 
-- **[Google Data Analytics Certificate](https://www.credly.com/badges/)** - *Issued: 2025*  
-- **[Google Cloud Cybersecurity Certificate](https://www.credly.com/users/filipe-correa.ab66564b)** - *Issued: October 2025*  
-- **[Google Cloud Computing Foundations Certificate](https://www.credly.com/users/filipe-correa.ab66564b)** - *Issued: September 2025*  
+- **[Google Data Analytics Certificate](https://www.credly.com/badges/)** - *Issued: 2024*
+- **[Google Cloud Cybersecurity Certificate](https://www.credly.com/users/filipe-correa.ab66564b)** - *Issued: October 2024*
+- **[Google Cloud Computing Foundations Certificate](https://www.credly.com/users/filipe-correa.ab66564b)** - *Issued: September 2024*
 - **Actively studying for the Professional Cloud Architect certification.**
 
 *Key skills demonstrated through Google Cloud challenge labs:*
-- **Secure Networking:** VPC design, firewall rules, and IAP.  
-- **Infrastructure:** Network & HTTP(S) Load Balancing across instance groups.  
-- **Data Pipelines:** Data preparation for ML APIs with Dataflow and Dataproc.  
-- **App Development:** Configuration of complete GCP development environments.  
+- **Secure Networking:** VPC design, firewall rules, and IAP.
+- **Infrastructure:** Network & HTTP(S) Load Balancing across instance groups.
+- **Data Pipelines:** Data preparation for ML APIs with Dataflow and Dataproc.
+- **App Development:** Configuration of complete GCP development environments.
 
 ---
 
-⭐ *Always open to collaboration and building impactful AI-powered tools.*
+⭐ **Interested in AI? I'm always open to new connections and collaboration opportunities. Let's build something impactful together!**
