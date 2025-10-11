@@ -17,19 +17,15 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=filipebelt&show_icons=true&theme=dark" alt="Filipe's GitHub stats" />
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/filipebelt/aiva">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=filipebelt&repo=aiva&theme=dark&bg_color=0B0B0F&border_color=8A2BE2&title_color=FFFFFF&text_color=A0A0B0&cache_seconds=1" alt="AIVA Project Card">
-      </a>
-      <p>My latest project, AIVA, is an AI web app to detect AI-generated visual media. It uses deep learning for authenticity analysis.</p>
-    </td>
-  </tr>
-</table>
+### 🚀 Featured Project: AIVA
+**AIVA** — an end-to-end AI web app for detecting AI-generated visual media.  
+It uses deep learning to analyze images and videos, providing authenticity confidence scores.
+
+<p align="center">
+  <a href="https://github.com/filipebelt/aiva">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=filipebelt&repo=aiva&theme=dark&bg_color=0B0B0F&border_color=8A2BE2&title_color=FFFFFF&text_color=A0A0B0&cache_seconds=1" alt="AIVA Project Card">
+  </a>
+</p>
 
 ---
 
@@ -37,13 +33,15 @@
 
 Here are the key technologies I have practical experience with, particularly from building AIVA:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
 
 ---
 
@@ -52,7 +50,6 @@ Here are the key technologies I have practical experience with, particularly fro
 - **[Google Data Analytics Certificate](https://www.credly.com/badges/)** - *Issued: 2024*
 - **[Google Cloud Cybersecurity Certificate](https://www.credly.com/users/filipe-correa.ab66564b)** - *Issued: October 2024*
 - **[Google Cloud Computing Foundations Certificate](https://www.credly.com/users/filipe-correa.ab66564b)** - *Issued: September 2024*
-- **Actively studying for the Professional Cloud Architect certification.**
 
 *Key skills demonstrated through Google Cloud challenge labs:*
 - **Secure Networking:** VPC design, firewall rules, and IAP.
