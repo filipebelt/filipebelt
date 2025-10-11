@@ -47,11 +47,12 @@ Here are the key technologies I have practical experience with, particularly fro
 
 ### 🎓 Certifications & Google Cloud Expertise
 
-- **[Google Data Analytics Certificate](https://www.credly.com/badges/)** - *Issued: 2025*
 - **[Google Cloud Cybersecurity Certificate](https://www.credly.com/users/filipe-correa.ab66564b)** - *Issued: October 2025*
 - **[Google Cloud Computing Foundations Certificate](https://www.credly.com/users/filipe-correa.ab66564b)** - *Issued: September 2025*
+- **[Google Data Analytics Certificate](https://www.credly.com/badges/)** - *Issued: September 2025*
 
-*Key skills demonstrated through Google Cloud challenge labs:*
+ 
+ *Key skills demonstrated through Google Cloud challenge labs:*
 - **Secure Networking:** VPC design, firewall rules, and IAP.
 - **Infrastructure:** Network & HTTP(S) Load Balancing across instance groups.
 - **Data Pipelines:** Data preparation for ML APIs with Dataflow and Dataproc.
