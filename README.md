@@ -10,7 +10,7 @@
   <a href="https://www.credly.com/users/filipe-correa.ab66564b" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Credly-Credentials-1f972d?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
   </a>
-  <a href="mailto:filipe-correa@outlook.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:filipecorreadev@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
