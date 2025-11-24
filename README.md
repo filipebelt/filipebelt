@@ -59,7 +59,7 @@ Currently working on:
 - Secure networking · VPC · Firewall rules  
 - Data pipelines (Dataproc, Dataflow)
 
-### **Tools**
+### **Developer Tools**
 - Git · Linux · VSCode  
 - Jupyter · Notebooks · Conda  
 
@@ -75,7 +75,7 @@ Stack:
 - Docker  
 - Cloud Run  
 - Cloud Storage  
-- Logging + Monitoring  
+- Logging & Monitoring  
 
 🔗 Repo (coming soon): `gcp-object-detection-api`
 
@@ -97,15 +97,9 @@ Features:
 ## 🎓 Certifications (Credly-Verified)
 
 ### **Google Cloud Certifications**
-
-- **Google Cybersecurity Certificate – 2025**  
-  
-
-- **Google Cloud Computing Foundations – 2025**  
- 
-
-- **Google Data Analytics Certificate – 2025**  
- 
+- **Google Cybersecurity Certificate (2025)**  
+- **Google Cloud Computing Foundations (2025)**  
+- **Google Data Analytics Certificate (2025)**  
 
 ---
 
