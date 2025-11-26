@@ -96,7 +96,6 @@ A full-stack dashboard for tracking goals, tasks, and study/work progress.
 
 <p align="center">
   <img height="155" src="https://github-readme-stats.vercel.app/api?username=filipebelt&show_icons=true&theme=tokyonight" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipebelt&layout=compact&theme=tokyonight" />
 </p>
 
 ---
