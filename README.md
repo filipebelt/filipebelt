@@ -4,11 +4,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/filipebelt/" target="_blank">
+  <a href="https://www.linkedin.com/in/filipebelt?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.credly.com/users/filipe-correa.ab66564b" target="_blank">
     <img src="https://img.shields.io/badge/Certificações-Credly-1f972d?style=for-the-badge&logo=credly&logoColor=white"/>
+  </a>
+  <a href="https://www.skills.google/public_profiles/ded9170d-f721-4a0f-aaaf-18829617af64" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Skills-Perfil-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   </a>
   <a href="mailto:filipecorreadev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -53,36 +56,35 @@
 
 # 🏆 Projetos em Destaque
 
-## 🔍 AIVA — AI Verifier
-Sistema de IA para identificar se imagens ou vídeos foram gerados por inteligência artificial.
+## 🔍 AIVA — AI Verifier  
+Sistema de IA para identificar se imagens ou vídeos foram gerados por IA.
+
+**Código-fonte:**  
+[https://github.com/filipebelt/aiva-verifier](https://github.com/filipebelt/aiva-verifier)
 
 **Aplicação online:**  
-[![Open AIVA](https://img.shields.io/badge/Abrir%20AIVA-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aiva-verifier-999132669974.us-central1.run.app/)
-
-**Repositório:**  
-[![GitHub Repo](https://img.shields.io/badge/Repositório%20no%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/filipebelt/aiva-verifier)
+[Open AIVA](https://aiva-verifier-999132669974.us-central1.run.app/)
 
 ---
 
 # 📦 Projetos Atuais
 
-### ☁️ API de Detecção por Imagens (GCP)
-API serverless de Machine Learning usando Cloud Run.  
-**Stack:** FastAPI · Docker · Cloud Storage · GCP  
+### ☁️ API de Detecção por Imagens (GCP)  
+API serverless de Machine Learning usando Cloud Run + Docker.  
+**Stack:** FastAPI · Docker · Cloud Storage · Google Cloud  
 **Status:** Em desenvolvimento
 
-### 📊 Dashboard de Produtividade (Full Stack)
-Dashboard completo para metas, tarefas e acompanhamento de progresso.  
-**Stack:** Python Backend · React Frontend · DB · Auth  
+### 📊 Dashboard de Produtividade (Full Stack)  
+Dashboard para metas, tarefas e acompanhamento de progresso.  
+**Stack:** Python Backend · React Frontend · DB · Autenticação  
 **Status:** Em construção
 
 ---
 
-# 🎓 Certificações (Credly)
+# 🎓 Certificações & Perfil Profissional
 
-- Google Cybersecurity Certificate (2025)  
-- Google Cloud Computing Foundations (2025)  
-- Google Data Analytics Certificate (2025)
+- Certificações confirmadas no [Google Skills](https://www.skills.google/public_profiles/ded9170d-f721-4a0f-aaaf-18829617af64)  
+- Certificações registradas no [Credly](https://www.credly.com/users/filipe-correa.ab66564b)  
 
 ---
 
@@ -95,13 +97,13 @@ Dashboard completo para metas, tarefas e acompanhamento de progresso.
 
 # 🤝 Vamos nos conectar?
 
-Tenho interesse em oportunidades de:
+Busco oportunidades nas áreas de:
 
 - IA / Machine Learning  
 - Backend Engineering  
-- Cloud Engineering  
+- Cloud & DevOps  
 
-Sinta-se à vontade para me chamar — gosto de construir soluções reais com impacto.
+Sinta-se à vontade para me contatar — adoro transformar ideias em produtos reais e escaláveis.
 
 ---
 
