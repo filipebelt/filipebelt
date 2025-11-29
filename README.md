@@ -13,7 +13,6 @@
     ">
     🇺🇸 EN
   </span>
-
   <a href="#pt" style="
     padding:6px 14px; 
     border-radius:20px; 
@@ -89,30 +88,37 @@ AIVA is an AI-powered system that detects whether images or videos were generate
 ## 🧠 Full Tech Stack
 
 <p>
+  <!-- Core / Backend -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge"/>
 
+  <!-- AI/ML -->
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OpenCV-27338e?logo=opencv&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Embeddings-000000?style=for-the-badge"/>
 
+  <!-- Cloud -->
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloud%20Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 
+  <!-- DevOps -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
+  <!-- OS -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
+  <!-- Version Control -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -148,7 +154,7 @@ AIVA is an AI-powered system that detects whether images or videos were generate
 <div style="
   border-radius: 16px; 
   padding: 20px; 
-  border: 1px solid #e5e5e5; 
+  border: 1px solid #e5e55e; 
   margin-bottom: 16px;">
   <p>Full-stack dashboard for tasks, goals and productivity.</p>
   <p><strong>Tech:</strong> Python • React • DB • Auth</p>
@@ -168,7 +174,6 @@ AIVA is an AI-powered system that detects whether images or videos were generate
 ⭐ *Thanks for visiting my profile!*
 
 </div>
-
 
 
 <!-- ======================= -->
@@ -212,16 +217,28 @@ AIVA is an AI-powered system that detects whether images or videos were generate
 
 ## ⚡ Impacto Profissional
 
-- Desenvolvi o **AIVA**, sistema de verificação de mídia com IA no Cloud Run  
-- Criei pipelines completos com embeddings, visão computacional e ML  
-- Projetei APIs **serverless de IA** em FastAPI + Docker  
-- Desenvolvi arquiteturas backend seguras e escaláveis  
-- Automatizei fluxos e otimizei processos  
-- Entreguei soluções cloud-native preparadas para produção  
+- Desenvolvi **AIVA**, sistema de verificação de mídia com IA no Cloud Run  
+- Criei pipelines com embeddings, visão computacional e ML  
+- Projetei APIs **serverless de IA** com FastAPI + Docker + GCP  
+- Estruturei arquiteturas backend escaláveis e seguras  
+- Automatizei workflows e otimizei processos  
+- Entreguei soluções cloud-native prontas para produção  
 
 ---
 
-## 🧩 Projetos em Destaque
+## 🚀 Projeto em Destaque — AIVA
+
+AIVA detecta se imagens ou vídeos foram gerados por IA ou são reais.
+
+### 🔗 Aplicação Online  
+[![Live App](https://img.shields.io/badge/AIVA-Aplicação%20Online-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aiva-verifier-999132669974.us-central1.run.app/)
+
+### 🔗 Repositório GitHub  
+[![Repo](https://img.shields.io/badge/GitHub-AIVA%20Repositório-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/filipebelt/aiva-verifier)
+
+---
+
+## 🧩 Projetos em Destaque (Cards)
 
 ### AIVA — Verificador de Mídia com IA
 <div style="
@@ -241,7 +258,7 @@ AIVA is an AI-powered system that detects whether images or videos were generate
   padding: 20px; 
   border: 1px solid #e5e5e5; 
   margin-bottom: 16px;">
-  <p>API de ML totalmente serverless rodando no Cloud Run.</p>
+  <p>API serverless de ML rodando no Cloud Run.</p>
   <p><strong>Tecnologias:</strong> FastAPI • Docker • GCP • ML</p>
   <p><em>Status: Em construção...</em></p>
 </div>
@@ -252,7 +269,7 @@ AIVA is an AI-powered system that detects whether images or videos were generate
   padding: 20px; 
   border: 1px solid #e5e5e5; 
   margin-bottom: 16px;">
-  <p>Dashboard para tarefas, metas e produtividade.</p>
+  <p>Dashboard completo para tarefas, metas e produtividade.</p>
   <p><strong>Tecnologias:</strong> Python • React • BD • Autenticação</p>
   <p><em>Status: Em desenvolvimento</em></p>
 </div>
