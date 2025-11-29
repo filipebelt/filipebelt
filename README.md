@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Filipe Corrêa 👋</h1>
 <p align="center">
-  <em>Engenheiro de Software • Desenvolvedor Python • Cloud & AI Engineer</em>
+  <em>Engenheiro de Software • Python Developer • Cloud & AI Engineer</em>
 </p>
 
 <p align="center">
@@ -54,7 +54,8 @@
 # 🏆 Projetos em Destaque
 
 ## 🔍 AIVA — AI Verifier
-Sistema de IA para identificar se imagens ou vídeos foram gerados por IA.
+Sistema de IA para identificar se imagens ou vídeos foram gerados por inteligência artificial.  
+Tecnologias: Python · FastAPI · Streamlit · Machine Learning · Docker · Cloud Run
 
 <p>
   <a href="https://github.com/filipebelt/aiva-verifier" target="_blank">
@@ -70,26 +71,28 @@ Sistema de IA para identificar se imagens ou vídeos foram gerados por IA.
 # 📦 Projetos Atuais
 
 ### ☁️ API de Detecção por Imagens (GCP)
-API serverless de Machine Learning usando Cloud Run + Docker.
+API serverless para processamento e análise de imagens.
 
-**Stack:** FastAPI · Docker · Cloud Storage · Google Cloud  
-**Status:** Em construção
+**Stack:** FastAPI · Docker · Cloud Run · Cloud Storage  
+**Status:** 🚧 Em construção
+
+---
 
 ### 📊 Dashboard de Produtividade (Full Stack)
-Dashboard para metas, tarefas e progresso.
+Dashboard para metas e acompanhamento de progresso diário.
 
-**Stack:** Python Backend · React Frontend · DB · Autenticação  
-**Status:** Em desenvolvimento
-
----
-
-# 🎓 Certificações & Perfil Profissional
-- Certificações confirmadas no **Google Skills**  
-- Certificações registradas no **Credly**
+**Stack:** Python Backend · React Frontend  
+**Status:** 🚧 Em desenvolvimento
 
 ---
 
-# 📊 Estatísticas GitHub
+# 🎓 Certificações
+- Certificações disponíveis no **Google Skills**  
+- Certificações verificáveis no **Credly**
+
+---
+
+# 📈 Estatísticas GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=filipebelt&show_icons=true&theme=tokyonight&cache_seconds=1800" height="155"/>
 </p>
@@ -98,13 +101,14 @@ Dashboard para metas, tarefas e progresso.
 
 # 🤝 Vamos nos conectar?
 
-Tenho interesse em:
+Tenho interesse em trabalhar com:
 
 - IA / Machine Learning  
 - Backend Engineering  
 - Cloud & DevOps  
+- Automação e sistemas distribuídos  
 
-📩 Me chame para colaborar — adoro transformar ideias em produtos reais.
+📩 *Aberto para oportunidades e colaborações.*
 
 ---
 
