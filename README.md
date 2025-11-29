@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/filipebelt?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/filipebelt" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.credly.com/users/filipe-correa.ab66564b" target="_blank">
@@ -12,9 +12,6 @@
   </a>
   <a href="https://www.skills.google/public_profiles/ded9170d-f721-4a0f-aaaf-18829617af64" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Skills-Perfil-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  </a>
-  <a href="mailto:filipecorreadev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -56,54 +53,58 @@
 
 # 🏆 Projetos em Destaque
 
-## 🔍 AIVA — AI Verifier  
+## 🔍 AIVA — AI Verifier
 Sistema de IA para identificar se imagens ou vídeos foram gerados por IA.
 
-**Código-fonte:**  
-[https://github.com/filipebelt/aiva-verifier](https://github.com/filipebelt/aiva-verifier)
-
-**Aplicação online:**  
-[Open AIVA](https://aiva-verifier-999132669974.us-central1.run.app/)
+<p>
+  <a href="https://github.com/filipebelt/aiva-verifier" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Código%20Fonte-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://aiva-verifier-999132669974.us-central1.run.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Abrir%20AIVA-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 # 📦 Projetos Atuais
 
-### ☁️ API de Detecção por Imagens (GCP)  
-API serverless de Machine Learning usando Cloud Run + Docker.  
-**Stack:** FastAPI · Docker · Cloud Storage · Google Cloud  
-**Status:** Em desenvolvimento
+### ☁️ API de Detecção por Imagens (GCP)
+API serverless de Machine Learning usando Cloud Run + Docker.
 
-### 📊 Dashboard de Produtividade (Full Stack)  
-Dashboard para metas, tarefas e acompanhamento de progresso.  
-**Stack:** Python Backend · React Frontend · DB · Autenticação  
+**Stack:** FastAPI · Docker · Cloud Storage · Google Cloud  
 **Status:** Em construção
+
+### 📊 Dashboard de Produtividade (Full Stack)
+Dashboard para metas, tarefas e progresso.
+
+**Stack:** Python Backend · React Frontend · DB · Autenticação  
+**Status:** Em desenvolvimento
 
 ---
 
 # 🎓 Certificações & Perfil Profissional
-
-- Certificações confirmadas no [Google Skills](https://www.skills.google/public_profiles/ded9170d-f721-4a0f-aaaf-18829617af64)  
-- Certificações registradas no [Credly](https://www.credly.com/users/filipe-correa.ab66564b)  
+- Certificações confirmadas no **Google Skills**  
+- Certificações registradas no **Credly**
 
 ---
 
 # 📊 Estatísticas GitHub
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=filipebelt&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=filipebelt&show_icons=true&theme=tokyonight&cache_seconds=1800" height="155"/>
 </p>
 
 ---
 
 # 🤝 Vamos nos conectar?
 
-Busco oportunidades nas áreas de:
+Tenho interesse em:
 
 - IA / Machine Learning  
 - Backend Engineering  
 - Cloud & DevOps  
 
-Sinta-se à vontade para me contatar — adoro transformar ideias em produtos reais e escaláveis.
+📩 Me chame para colaborar — adoro transformar ideias em produtos reais.
 
 ---
 
