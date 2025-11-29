@@ -3,8 +3,6 @@
 <!-- ======================= -->
 
 <div align="right" style="margin-bottom: 20px; font-size: 15px;">
-
-  <!-- Active EN -->
   <span style="
     padding:6px 14px; 
     border-radius:20px; 
@@ -16,7 +14,6 @@
     🇺🇸 EN
   </span>
 
-  <!-- Inactive PT -->
   <a href="#pt" style="
     padding:6px 14px; 
     border-radius:20px; 
@@ -28,9 +25,10 @@
   </a>
 </div>
 
+
 <div style="animation: fadeSlide 1s ease forwards;">
 
-<h1 align="center">Hi, I'm Filipe Corrêa</h1>
+<h1 align="center">Hi, I'm Felipe Correa</h1>
 <p align="center">
   <em>Software Engineer • Python • AI/ML • Google Cloud</em>
 </p>
@@ -55,13 +53,24 @@ I’m a **Software Engineer** focused on Python, AI/ML, and Google Cloud — bui
 
 My engineering focuses on:
 
-- **Applied AI/ML & real-world intelligent systems**  
-- **Digital trust & media authenticity**  
-- **Serverless ML APIs on Cloud Run**  
-- **Backend architecture & automation**  
-- **Cloud-native design (GCP)**  
+- Applied **AI/ML**  
+- **Digital trust** & media authenticity  
+- **Serverless ML APIs** (Cloud Run)  
+- **Backend architecture** & automation  
+- Cloud-native systems on **GCP**  
 
-I turn complex problems into clean, efficient, reliable engineering.
+I turn complex real-world problems into clean and efficient engineering.
+
+---
+
+## ⚡ Impact Highlights
+
+- Built **AIVA**, an AI-powered media verification system deployed on Google Cloud Run  
+- Developed pipelines using embeddings, CV and ML classification  
+- Designed **serverless ML APIs** with FastAPI, Docker & GCP  
+- Created secure and scalable backend architectures  
+- Automated workflows & engineered efficient solutions  
+- Delivered production-ready cloud-native systems  
 
 ---
 
@@ -80,60 +89,71 @@ AIVA is an AI-powered system that detects whether images or videos were generate
 ## 🧠 Full Tech Stack
 
 <p>
-  <!-- Core / Backend -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REST%20API-005571?logo=api&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge"/>
 
-  <!-- AI/ML -->
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?logo=openai&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OpenCV-27338e?logo=opencv&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Embeddings-000000?style=for-the-badge"/>
 
-  <!-- Cloud -->
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud%20Run-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud%20Storage-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 
-  <!-- DevOps -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?logo=githubactions&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VSCODE-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
-  <!-- OS / Environment -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
-  <!-- Version Control -->
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## 📦 Current Projects
+## 🧩 Featured Projects (Cards)
 
-### ☁️ **GCP Object Detection API**
-Serverless object detection ML API deployed on Cloud Run.  
-**Status:** Building.
+### AIVA — AI Media Verifier
+<div style="
+  border-radius: 16px; 
+  padding: 20px; 
+  border: 1px solid #e5e5e5; 
+  margin-bottom: 16px;">
+  <p>AI system that identifies whether images/videos were generated by AI or are real.</p>
+  <p><strong>Tech:</strong> Python • FastAPI • Docker • GCP • Cloud Run • CV • Embeddings</p>
+  <a href="https://github.com/filipebelt/aiva-verifier">🔗 GitHub Repo</a><br>
+  <a href="https://aiva-verifier-999132669974.us-central1.run.app/">🚀 Live App</a>
+</div>
 
-### 📊 **Productivity Dashboard (Full Stack)**
-Modern productivity and metrics dashboard.  
-**Status:** Coming soon.
+### GCP Object Detection API
+<div style="
+  border-radius: 16px; 
+  padding: 20px; 
+  border: 1px solid #e5e5e5; 
+  margin-bottom: 16px;">
+  <p>Serverless object detection ML API deployed on Cloud Run.</p>
+  <p><strong>Tech:</strong> FastAPI • Docker • GCP • ML</p>
+  <p><em>Status: Building...</em></p>
+</div>
 
----
-
-## 🎓 Certifications
-
-- Google Cybersecurity Certificate (2025)  
-- Google Cloud Foundations (2025)  
-- Google Data Analytics (2025)
+### Productivity Dashboard
+<div style="
+  border-radius: 16px; 
+  padding: 20px; 
+  border: 1px solid #e5e5e5; 
+  margin-bottom: 16px;">
+  <p>Full-stack dashboard for tasks, goals and productivity.</p>
+  <p><strong>Tech:</strong> Python • React • DB • Auth</p>
+  <p><em>Status: Coming soon</em></p>
+</div>
 
 ---
 
@@ -180,98 +200,62 @@ Modern productivity and metrics dashboard.
   </span>
 </div>
 
+
 <div style="animation: fadeSlide 1s ease forwards;">
 
-<h1 align="center">Olá, eu sou o Filipe Corrêa</h1>
+<h1 align="center">Olá, eu sou o Felipe Correa</h1>
 <p align="center">
   <em>Engenheiro de Software • Python • IA/ML • Google Cloud</em>
 </p>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## ⚡ Impacto Profissional
 
-Sou **Engenheiro de Software** especializado em Python, IA/ML e Google Cloud.  
-Crio sistemas inteligentes, escaláveis e prontos para produção.
-
-Atuo com:
-
-- **Machine Learning aplicado e IA real**  
-- **Autenticidade e verificação de mídia digital**  
-- **APIs serverless de IA no Cloud Run**  
-- **Arquitetura backend e automações**  
-- **Infraestrutura cloud-native na GCP**  
+- Desenvolvi o **AIVA**, sistema de verificação de mídia com IA no Cloud Run  
+- Criei pipelines completos com embeddings, visão computacional e ML  
+- Projetei APIs **serverless de IA** em FastAPI + Docker  
+- Desenvolvi arquiteturas backend seguras e escaláveis  
+- Automatizei fluxos e otimizei processos  
+- Entreguei soluções cloud-native preparadas para produção  
 
 ---
 
-## 🚀 Projeto em Destaque — AIVA
+## 🧩 Projetos em Destaque
 
-AIVA detecta se imagens ou vídeos foram gerados por IA ou são reais.
+### AIVA — Verificador de Mídia com IA
+<div style="
+  border-radius: 16px; 
+  padding: 20px; 
+  border: 1px solid #e5e5e5; 
+  margin-bottom: 16px;">
+  <p>Sistema que identifica se imagens/vídeos foram gerados por IA ou são reais.</p>
+  <p><strong>Tecnologias:</strong> Python • FastAPI • Docker • GCP • Cloud Run • Visão Computacional • Embeddings</p>
+  <a href="https://github.com/filipebelt/aiva-verifier">🔗 Repositório GitHub</a><br>
+  <a href="https://aiva-verifier-999132669974.us-central1.run.app/">🚀 Aplicação Online</a>
+</div>
 
-### 🔗 Aplicação Online  
-[![Live App](https://img.shields.io/badge/AIVA-Live%20App-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aiva-verifier-999132669974.us-central1.run.app/)
+### API de Detecção de Objetos (GCP)
+<div style="
+  border-radius: 16px; 
+  padding: 20px; 
+  border: 1px solid #e5e5e5; 
+  margin-bottom: 16px;">
+  <p>API de ML totalmente serverless rodando no Cloud Run.</p>
+  <p><strong>Tecnologias:</strong> FastAPI • Docker • GCP • ML</p>
+  <p><em>Status: Em construção...</em></p>
+</div>
 
-### 🔗 Repositório  
-[![Repo](https://img.shields.io/badge/GitHub-AIVA%20Repository-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/filipebelt/aiva-verifier)
-
----
-
-## 🧠 Tecnologias Completas
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/API%20REST-005571?logo=api&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white&style=for-the-badge"/>
-
-  <!-- AI/ML -->
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Inteligência%20Artificial-000000?logo=openai&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Visão%20Computacional-5C3EE8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenCV-27338e?logo=opencv&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Embeddings-000000?style=for-the-badge"/>
-
-  <!-- Cloud -->
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud%20Run-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud%20Storage-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge"/>
-
-  <!-- DevOps -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?logo=githubactions&logoColor=white&style=for-the-badge"/>
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VSCODE-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge"/>
-
-  <!-- OS -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"/>
-
-  <!-- Version Control -->
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
-</p>
-
----
-
-## 📦 Projetos Atuais
-
-### ☁️ API de Detecção de Objetos (GCP)
-API de ML totalmente serverless rodando no Cloud Run.  
-**Status:** Em construção.
-
-### 📊 Dashboard de Produtividade (Full Stack)
-Dashboard moderno de métricas e produtividade.  
-**Status:** Em desenvolvimento.
-
----
-
-## 🎓 Certificações
-
-- Google Cybersecurity Certificate (2025)  
-- Google Cloud Foundations (2025)  
-- Google Data Analytics (2025)
+### Dashboard de Produtividade
+<div style="
+  border-radius: 16px; 
+  padding: 20px; 
+  border: 1px solid #e5e5e5; 
+  margin-bottom: 16px;">
+  <p>Dashboard para tarefas, metas e produtividade.</p>
+  <p><strong>Tecnologias:</strong> Python • React • BD • Autenticação</p>
+  <p><em>Status: Em desenvolvimento</em></p>
+</div>
 
 ---
 
@@ -286,6 +270,3 @@ Dashboard moderno de métricas e produtividade.
 ⭐ *Obrigado por visitar meu perfil!*
 
 </div>
-
-<!-- Animation Hack (GitHub safe) -->
-<!-- fadeSlide simulated -->
