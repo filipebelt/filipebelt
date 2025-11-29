@@ -1,6 +1,6 @@
-<h1 align="center">Olá, eu sou o Filipe Correa 👋</h1>
+<h1 align="center">Olá, eu sou o Filipe Corrêa 👋</h1>
 <p align="center">
-  <em>Estudante de Engenharia de Software • Desenvolvedor Python • Entusiasta de Cloud e IA</em>
+  <em>Engenheiro de Software • Desenvolvedor Python • Cloud & AI Engineer</em>
 </p>
 
 <p align="center">
@@ -17,97 +17,91 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+# 🚀 Tech Stack
 
-Sou **estudante de Engenharia de Software**, com foco em **desenvolvimento Python**, **engenharia de nuvem** e **aplicações de IA/ML**.
+## 🧠 Inteligência Artificial & Data Science
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-A855F7?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
 
-Trabalho na criação de soluções reais envolvendo:
+## 💻 Linguagens
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-- **Autenticidade digital e verificação de mídia**
-- **Machine Learning Serverless**
-- **APIs inteligentes e automações**
-- **Deploys em nuvem (Google Cloud)**
+## ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
-Gosto de transformar ideias em **produtos escaláveis e prontos para produção**.  
-Busco **estágio ou posição júnior** em IA, backend ou cloud engineering.
+## 🛠️ Frameworks & Ferramentas
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tkinter-6E6E6E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
 ---
 
-## 🚀 Projeto em Destaque — AIVA (AI Verifier)
+# 🏆 Projetos em Destaque
 
-**AIVA** é um sistema de IA capaz de identificar se imagens ou vídeos foram gerados por inteligência artificial ou são reais.
+## 🔍 AIVA — AI Verifier
+Sistema de IA para identificar se imagens ou vídeos foram gerados por inteligência artificial.
 
-### Aplicação online  
+**Aplicação online:**  
 [![Open AIVA](https://img.shields.io/badge/Abrir%20AIVA-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aiva-verifier-999132669974.us-central1.run.app/)
 
-### Repositório no GitHub  
+**Repositório:**  
 [![GitHub Repo](https://img.shields.io/badge/Repositório%20no%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/filipebelt/aiva-verifier)
 
 ---
 
-## 🧠 Tech Stack
+# 📦 Projetos Atuais
 
-### **Principais Competências**
-- Python · FastAPI · Streamlit  
-- REST APIs · Arquitetura de Backend  
-- Machine Learning · Visão Computacional (OpenCV)  
-- Embeddings · Classificação
-
-### **Cloud & DevOps**
-- Google Cloud (Cloud Run, Storage, IAM, Build, Logging)  
-- Docker · CI/CD · Artifact Registry  
-- Deploy serverless
-
-### **Ferramentas**
-- Git · Linux  
-- VSCode · Jupyter
-
----
-
-## 📦 Projetos Atuais
-
-### ☁️ **1. API de Detecção por Imagens (GCP)**
-API serverless de ML usando Cloud Run.
-
-**Stack:** FastAPI · Docker · Cloud Run · Cloud Storage  
+### ☁️ API de Detecção por Imagens (GCP)
+API serverless de Machine Learning usando Cloud Run.  
+**Stack:** FastAPI · Docker · Cloud Storage · GCP  
 **Status:** Em desenvolvimento
 
----
-
-### 📊 **2. Dashboard de Produtividade (Full Stack)**
-Dashboard completo para acompanhar metas, tarefas e evolução.
-
-**Stack:** Backend Python · Frontend React · Banco de dados · Autenticação  
+### 📊 Dashboard de Produtividade (Full Stack)
+Dashboard completo para metas, tarefas e acompanhamento de progresso.  
+**Stack:** Python Backend · React Frontend · DB · Auth  
 **Status:** Em construção
 
 ---
 
-## 🎓 Certificações (Credly)
+# 🎓 Certificações (Credly)
 
-### **Google**
 - Google Cybersecurity Certificate (2025)  
 - Google Cloud Computing Foundations (2025)  
-- Google Data Analytics Certificate (2025)  
+- Google Data Analytics Certificate (2025)
 
 ---
 
-## 📊 Estatísticas GitHub
-
+# 📊 Estatísticas GitHub
 <p align="center">
   <img height="155" src="https://github-readme-stats.vercel.app/api?username=filipebelt&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-## 🤝 Vamos nos conectar?
+# 🤝 Vamos nos conectar?
 
 Tenho interesse em oportunidades de:
 
 - IA / Machine Learning  
-- Backend  
+- Backend Engineering  
 - Cloud Engineering  
 
-Sinta-se à vontade para entrar em contato — adoro construir software com impacto real.
+Sinta-se à vontade para me chamar — gosto de construir soluções reais com impacto.
 
 ---
 
