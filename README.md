@@ -2,28 +2,11 @@
 <!-- ==== LANGUAGE TABS ==== -->
 <!-- ======================= -->
 
-<div align="right" style="margin-bottom: 20px; font-size: 15px;">
-  <span style="
-    padding:6px 14px; 
-    border-radius:20px; 
-    border:2px solid #007aff; 
-    font-weight:700;
-    color:#007aff;
-    background:rgba(0,122,255,0.10);
-    ">
-    🇺🇸 EN
-  </span>
-  <a href="#pt" style="
-    padding:6px 14px; 
-    border-radius:20px; 
-    border:1px solid #999; 
-    margin-left:6px;
-    text-decoration:none;
-    color:#999;">
-    🇧🇷 PT
-  </a>
+<!-- EN ACTIVE -->
+<div align="right" style="margin-bottom: 20px; font-size: 24px;">
+  <span style="opacity:1;">🇺🇸</span>
+  <a href="#pt" style="text-decoration:none; margin-left:12px;">🇧🇷</a>
 </div>
-
 
 <div style="animation: fadeSlide 1s ease forwards;">
 
@@ -88,24 +71,31 @@ AIVA is an AI-powered system that detects whether images or videos were generate
 ## 🧠 Full Tech Stack
 
 <p>
+  <!-- Core / Backend -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge"/>
+  <!-- AI/ML -->
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OpenCV-27338e?logo=opencv&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Embeddings-000000?style=for-the-badge"/>
+  <!-- Cloud -->
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloud%20Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <!-- DevOps -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <!-- OS -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <!-- Version Control -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -126,33 +116,17 @@ AIVA is an AI-powered system that detects whether images or videos were generate
 
 
 
+
 <!-- ======================= -->
 <!-- ===== PORTUGUÊS ====== -->
 <!-- ======================= -->
 
 <a id="pt"></a>
 
-<div align="right" style="margin-top: 40px; margin-bottom:20px;">
-  <a href="#" style="
-    padding:6px 14px; 
-    border-radius:20px; 
-    border:1px solid #999; 
-    text-decoration:none;
-    color:#999;">
-    🇺🇸 EN
-  </a>
-
-  <span style="
-    padding:6px 14px; 
-    margin-left:6px;
-    border-radius:20px; 
-    border:2px solid #007aff; 
-    font-weight:700;
-    color:#007aff;
-    background:rgba(0,122,255,0.10);
-    ">
-    🇧🇷 PT
-  </span>
+<!-- PT ACTIVE -->
+<div align="right" style="margin-top: 40px; margin-bottom: 20px; font-size: 24px;">
+  <a href="#" style="text-decoration:none; margin-right:12px;">🇺🇸</a>
+  <span style="opacity:1;">🇧🇷</span>
 </div>
 
 
